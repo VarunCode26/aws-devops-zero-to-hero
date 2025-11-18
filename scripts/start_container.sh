@@ -6,4 +6,4 @@ docker pull imdocker26/python-flash-app:latest
 #docker pull abhishekf5/simple-python-flask-app
 
 # Run the Docker image as a container
-docker run -d -p 8000:8000 imdocker26/python-flash-app:latest
+docker run -d -p 5000:5000 imdocker26/python-flash-app:latest
